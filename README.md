@@ -7,6 +7,6 @@ Autora: Cecilia Martínez Hernández
 
 | Nombre | GitHub |
 |--------|--------|
-| Nombre 1 | [@munozplataelena](https://github.com/munozplataelena-maker) |
-| Nombre 2 | [@mannahsyed](https://github.com/mannahsyed) |
-| Nombre 3 | [@bySamuu00706](https://github.com/bySamuu00706) |
+| Nombre Elena | [@munozplataelena](https://github.com/munozplataelena-maker) |
+| Manna | [@mannahsyed](https://github.com/mannahsyed) |
+| Samuel | [@bySamuu00706](https://github.com/bySamuu00706) |
